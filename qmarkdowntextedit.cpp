@@ -22,7 +22,7 @@
 #include <QKeyEvent>
 #include <QLayout>
 #include <QPainter>
-#include <QPainterPath>
+#include    <QPainterPath>
 #include <QRegularExpression>
 #include <QRegularExpressionMatch>
 #include <QRegularExpressionMatchIterator>
